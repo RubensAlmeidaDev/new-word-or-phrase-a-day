@@ -1,4 +1,4 @@
-# new-word-or-frase-a-day
+# new-word-or-phrase-a-day
 ### **Commit de pergunta:** New word or phrase a day: question #x
 ### **Commit de resposta:** New word or phrase a day: answer #x
 
